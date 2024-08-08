@@ -1,7 +1,7 @@
 steps to Navigate repo.
 1. cd Admin-backend 
-   yarn dev
-2. cd raectadmin
- yarn start/npm start
+2.yarn dev
+3. cd Admin-frontend
+ 4. yarn start/npm start
 
 Have issue in baseUrl for deployment.
